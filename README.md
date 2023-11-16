@@ -9,4 +9,4 @@
   Go to `report` folder
 
 ## Certificate of Completion
-[INTERNSHIP-COMPLETION-CERTIFICATE.pdf](https://github.com/Akshay-Dongare/Model_Compression/files/13379280/INTERNSHIP-COMPLETION-CERTIFICATE.pdf)
+![INTERNSHIP-COMPLETION-CERTIFICATE-1](https://github.com/Akshay-Dongare/Model_Compression/assets/75126845/94684c12-17ef-4685-9dc7-84a93d88b93f)
